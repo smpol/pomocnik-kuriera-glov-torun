@@ -9,6 +9,5 @@ Jest to strona internetowa/aplikacja która zawiera potrzebne informacje dla kur
 
 ## Prawa autorskie
 
-W projekcie używane jest słowo "Glovo" oraz logo Glovo (https://www.pinterest.es/pin/892697957359497843/)
-należące do firmy Glovo oraz autora logo.
+W projekcie używane jest słowo "Glovo" należące do firmy Glovo oraz autora logo.
 Także używane jest słowo "Biedronka" należące do firmy Jerónimo Martins
