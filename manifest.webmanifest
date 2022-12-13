@@ -1,7 +1,7 @@
 {
     "theme_color": "#00a082",
     "background_color": "#f6c45d",
-    "display": "fullscreen",
+    "display": "standalone",
     "scope": "/pomocnik-kuriera-torun/",
     "start_url": "/pomocnik-kuriera-torun/",
     "name": "Pomocnik Kuriera Glovo Toru\u0144",
