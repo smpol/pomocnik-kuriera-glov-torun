@@ -13,3 +13,7 @@ Jest to strona internetowa/aplikacja która zawiera potrzebne informacje dla kur
 
 W projekcie używane jest słowo "Glovo" należące do firmy Glovo oraz autora logo.
 Także używane jest słowo "Biedronka" należące do firmy Jerónimo Martins
+
+
+## Geneza projektu
+Pierwsza nauka podstaw korzystania z frameworka Bootstrap oraz tworzenia aplikacji PWA
